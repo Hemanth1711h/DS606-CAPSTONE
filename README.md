@@ -1,6 +1,7 @@
 # 🏏 Umpire Decision Accuracy Prediction (Capstone Project)
 
-![image](https://github.com/user-attachments/assets/b861de4f-8ccb-4849-bb4d-06634226fbd7)
+![WhatsApp Image 2025-05-07 at 6 09 34 PM](https://github.com/user-attachments/assets/07473981-8264-4622-bd0b-a9a83e196d5a)
+
 
 
 ## 📍 Project Overview
