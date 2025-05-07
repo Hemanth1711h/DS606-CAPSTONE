@@ -85,4 +85,6 @@ The primary objective of this capstone project is to analyze decision-making pat
 
 ---
 
-## 💻 Repository Structure
+## 💻Final Presentation Link
+
+https://docs.google.com/presentation/d/1y2Sj3eoIU7yoPSCkBxLuHfijoEmk0bN1/edit?usp=sharing&ouid=115928439987088123968&rtpof=true&sd=true
