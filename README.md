@@ -28,10 +28,11 @@ Our goal: *improve fairness, trust, and accountability in cricket decision-makin
 
 ## 📊 Data Overview
 
-- *Numerical features:* Over, Runs by Batter, Total Runs, Current Wickets, Win Margin
-- *Categorical features:* Inning Team, Wicket Kind, Review Type, Umpire, Review Decision, Teams
-
-*Target variable:* Umpire_Decision  
+- *Numerical features:    'Match ID', 'Over', 'Runs by Batter', 'Extras', 'Total Runs','Current Wickets', 'Win Margin', 'Event Match Number'
+- *Categorical features:  'Inning Team', 'Batter', 'Bowler', 'Wicket Kind', 'Player Out','Fielder', 'Review By', 'Umpire', 'Review Decision', 'Date', 'Season',
+-                         'Team 1', 'Team 2', 'Venue', 'Winner', 'win_margin_type','Event Name', 'Event Stage',
+-                         'Umpire 1','Umpire 2', Umpire Decision'
+- *Target variable:* Umpire_Decision  
 - ‘Struck down’ → correct decision  
 - ‘Upheld’ → wrong decision
 
