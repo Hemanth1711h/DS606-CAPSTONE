@@ -1,3 +1,8 @@
+## 🎯 Objective
+
+The primary objective of this capstone project is to analyze decision-making patterns in professional cricket umpiring using machine learning. Specifically, the project aims to predict the correctness of an umpire's decision based on historical match data, ball characteristics, player behavior, and contextual game features. The goal is not to replace umpires but to provide a supportive analytical tool that identifies potential biases or inconsistencies and enables data-driven insights for cricket governing bodies.
+
+
 # 🏏 Umpire Decision Accuracy Prediction (Capstone Project)
 
 ## 📍 Project Overview
