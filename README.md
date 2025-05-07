@@ -87,13 +87,13 @@ The primary objective of this capstone project is to analyze decision-making pat
 - Correlation Heatmap
 <img width="611" alt="image" src="https://github.com/user-attachments/assets/21ba2b26-3bb6-4063-ac44-fc0f469b3b3d" />
 
-- This heatmap shows how numerical features relate to each other and to umpire decision accuracy.
-  We expected to find strong predictors — but surprisingly, most correlations with the target were weak.
-  Total Runs and Extras had a high correlation, while Over and Wickets showed game flow patterns.
+This heatmap shows how numerical features relate to each other and to umpire decision accuracy.
+We expected to find strong predictors — but surprisingly, most correlations with the target were weak.
+Total Runs and Extras had a high correlation, while Over and Wickets showed game flow patterns.
  
-  The umpire decision variable barely correlated linearly, signaling hidden patterns beneath the surface.
-  This insight pushed us toward non-linear models like Random Forest and Neural Networks.
-  It taught us that in cricket, as in life, the surface often hides the real story
+The umpire decision variable barely correlated linearly, signaling hidden patterns beneath the surface.
+This insight pushed us toward non-linear models like Random Forest and Neural Networks.
+It taught us that in cricket, as in life, the surface often hides the real story
 
 - FCNN Accuracy/Loss Curves
 <img width="755" alt="image" src="https://github.com/user-attachments/assets/57632cbe-ea4e-4de3-bc58-1a028d46ab43" />
