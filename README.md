@@ -29,16 +29,6 @@ The primary objective of this capstone project is to analyze decision-making pat
   - match_info.csv: match context (teams, umpires, venue, date)
 - *Sample size:* ~18,000 matches, filtered to ~2,400 DRS-reviewed decisions
 
--  Tools & Technologies:
--  Python 3.x
--  Pandas, NumPy (data manipulation & analysis)
--  Scikit-learn (traditional ML models, pipelines, feature selection)
--  XGBoost (advanced boosting models)
--  TensorFlow / Keras (deep learning models like FCNN)
--  Matplotlib, Seaborn (visualizations)
--  Jupyter Notebook / Google Colab (development environment)
--  Git, GitHub (version control & collaboration)
-
 ---
 
 ## 📊 Data Overview and Tools to Use
@@ -48,8 +38,16 @@ The primary objective of this capstone project is to analyze decision-making pat
 - *Target variable:* Umpire_Decision  
 - ‘Struck down’ → correct decision  
 - ‘Upheld’ → wrong decision
-
-- Tools Used: Google collab, 
+  
+-  Tools & Technologies:
+-  Python 3.x
+-  Pandas, NumPy (data manipulation & analysis)
+-  Scikit-learn (traditional ML models, pipelines, feature selection)
+-  XGBoost (advanced boosting models)
+-  TensorFlow / Keras (deep learning models like FCNN)
+-  Matplotlib, Seaborn (visualizations)
+-  Jupyter Notebook / Google Colab (development environment)
+-  Git, GitHub (version control & collaboration)
 
 ---
 
