@@ -40,14 +40,14 @@ The primary objective of this capstone project is to analyze decision-making pat
 - ‘Upheld’ → wrong decision
   
 -  Tools & Technologies:
--  Python 3.x
--  Pandas, NumPy (data manipulation & analysis)
--  Scikit-learn (traditional ML models, pipelines, feature selection)
--  XGBoost (advanced boosting models)
--  TensorFlow / Keras (deep learning models like FCNN)
--  Matplotlib, Seaborn (visualizations)
--  Jupyter Notebook / Google Colab (development environment)
--  Git, GitHub (version control & collaboration)
+-    Python 3.x
+-    Pandas, NumPy (data manipulation & analysis)
+-    Scikit-learn (traditional ML models, pipelines, feature selection)
+-    XGBoost (advanced boosting models)
+-    TensorFlow / Keras (deep learning models like FCNN)
+-    Matplotlib, Seaborn (visualizations)
+-    Jupyter Notebook / Google Colab (development environment)
+-    Git, GitHub (version control & collaboration)
 
 ---
 
