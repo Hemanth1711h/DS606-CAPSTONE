@@ -47,7 +47,7 @@ The primary objective of this capstone project is to analyze decision-making pat
 - Feature selection: Random Forest, SHAP, SelectKBest
 - Tasks:
   - *Supervised:* Binary classification
-  - *Unsupervised:* Clustering umpire behavior (KMeans)
+
 
 ---
 
@@ -71,7 +71,7 @@ The primary objective of this capstone project is to analyze decision-making pat
 - Correlation Heatmap  
 - FCNN Accuracy/Loss Curves  
 - Confusion Matrix  
-- Clustering (Umpire Behavior)
+
 
 ---
 
