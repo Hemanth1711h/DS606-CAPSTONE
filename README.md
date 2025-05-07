@@ -76,7 +76,7 @@ The primary objective of this capstone project is to analyze decision-making pat
 - FCNN Accuracy/Loss Curves
 - <img width="755" alt="image" src="https://github.com/user-attachments/assets/57632cbe-ea4e-4de3-bc58-1a028d46ab43" />
 
-- Confusion Matrix  
+- Confusion Matrix for Best Model
 <img width="749" alt="image" src="https://github.com/user-attachments/assets/9b17d131-cefb-491b-9086-94127b4bd81e" />
 
 
