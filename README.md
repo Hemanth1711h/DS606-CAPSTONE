@@ -111,11 +111,31 @@ Overall, these curves gave us confidence to select this as one of our best-perfo
 
 ## 🚀 Future Work
 
-- Expand to T20/Test match formats  
-- Model umpire-specific bias patterns  
-- Build a live prediction dashboard for commentators  
-- Explore sentiment analysis from commentary  
-- Deploy with MLOps practices (monitoring, auto-retraining)
+1. Expand the Dataset Across More Matches and Formats
+Collect and include more ODI, T20, and Test match data.
+Include women’s cricket and franchise leagues (e.g., IPL and BBL).
+This improves model generalizability and fairness across formats and conditions.
+
+2. Analyze Umpire-Level and Player-Level Bias
+Build models specifically for each umpire to detect patterns or potential biases.
+Examine whether certain players or teams consistently get favorable/unfavorable decisions.
+This helps address fairness, accountability, and even policy recommendations.
+
+3. Incorporate Real-Time Data for Live Decision Support
+Integrate ball-tracking, player movement, weather conditions, and crowd noise into models.
+Develop a system to provide live decision support or post-match analytics.
+This pushes the project from retrospective analysis into a real-time application. Focus on critical review moments
+
+4. Apply Unsupervised Learning for Pattern Discovery
+Use clustering to group umpires by decision styles.
+Use anomaly detection to spot unusual decision patterns or rare events.
+This can reveal hidden structures in umpire behavior that supervised models miss.
+
+5. Develop Dashboard or Web App for Stakeholders
+Build an interactive dashboard for analysts, commentators, or fans.
+Allow users to explore predictions, important features, and accuracy trends.
+This enhances transparency and puts data insights into the hands of end-users.
+
 
 ---
 
