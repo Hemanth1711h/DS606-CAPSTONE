@@ -84,6 +84,10 @@ The primary objective of this capstone project is to analyze decision-making pat
 - Feature Importance Graphs
 <img width="780" alt="image" src="https://github.com/user-attachments/assets/8d6f1b99-ded6-4380-96db-6c089816077a" />
 
+Over, Wicket Kind _Caught, Total Runs, Win Margin, Review By_England, Match ID, Review By_Australia, Current Wickets, Inning Team England, Even Match Number, Wicket Kind _LBW
+
+Each of these features contributes context, whether it's the match situation (like total runs, over, or current wickets), the type of appeal (like LBW or caught), or team-specific behavior (like who reviewed). These features consistently showed up in our different model plots, meaning they truly influence whether a decision is likely to be right or wrong.
+
 - Correlation Heatmap
 <img width="611" alt="image" src="https://github.com/user-attachments/assets/21ba2b26-3bb6-4063-ac44-fc0f469b3b3d" />
 
