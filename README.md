@@ -98,8 +98,12 @@ It taught us that in cricket, as in life, the surface often hides the real story
 - FCNN Accuracy/Loss Curves
 <img width="755" alt="image" src="https://github.com/user-attachments/assets/57632cbe-ea4e-4de3-bc58-1a028d46ab43" />
 
-
----
+These plots show how our neural network learned over 80 epochs.
+On the left, we see training and validation accuracy steadily improving and stabilizing around ~76-77%.
+On the right, the loss curves show a smooth, consistent decrease without divergence.
+Importantly, the train and validation curves stay close, indicating minimal overfitting.
+This tells us the model generalizes well and has learned meaningful patterns.
+Overall, these curves gave us confidence to select this as one of our best-performing models.
 
 ## 🚀 Future Work
 
