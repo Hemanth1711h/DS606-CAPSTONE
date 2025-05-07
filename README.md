@@ -67,10 +67,21 @@ The primary objective of this capstone project is to analyze decision-making pat
 
 ## 📈 Visual Highlights
 
-- Feature Importance Graphs  
-- Correlation Heatmap  
-- FCNN Accuracy/Loss Curves  
-- Confusion Matrix  
+- Feature Importance Graphs
+<img width="780" alt="image" src="https://github.com/user-attachments/assets/8d6f1b99-ded6-4380-96db-6c089816077a" />
+
+- FCNN Architecture
+<img width="448" alt="image" src="https://github.com/user-attachments/assets/aa6e7b3b-0185-401f-9877-b25944111132" />
+
+
+- Correlation Heatmap
+<img width="611" alt="image" src="https://github.com/user-attachments/assets/21ba2b26-3bb6-4063-ac44-fc0f469b3b3d" />
+
+- FCNN Accuracy/Loss Curves
+<img width="755" alt="image" src="https://github.com/user-attachments/assets/57632cbe-ea4e-4de3-bc58-1a028d46ab43" />
+
+- Confusion Matrix for Best Model
+<img width="749" alt="image" src="https://github.com/user-attachments/assets/9b17d131-cefb-491b-9086-94127b4bd81e" />
 
 
 ---
