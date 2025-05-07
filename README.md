@@ -1,5 +1,9 @@
 # 🏏 Umpire Decision Accuracy Prediction (Capstone Project)
 
+  ![WhatsApp Image 2025-05-07 at 6 09 34 PM](https://github.com/user-attachments/assets/07473981-8264-4622-bd0b-a9a83e196d5a)
+
+
+
 ## 📍 Project Overview
 
 Cricket is one of the most popular sports globally, where a single umpire decision can change the course of a match.  
@@ -31,13 +35,23 @@ The primary objective of this capstone project is to analyze decision-making pat
 
 ---
 
-## 📊 Data Overview
+## 📊 Data Overview and Tools to Use
 
 - *Numerical features: ['Match ID', 'Over', 'Runs by Batter', 'Extras', 'Total Runs','Current Wickets', 'Win Margin', 'Event Match Number']
 - *Categorical features: ['Inning Team', 'Batter', 'Bowler', 'Wicket Kind', 'Player Out','Fielder', 'Review By', 'Umpire', 'Review Decision', 'Date', 'Season', 'Team 1', 'Team 2', 'Venue', 'Winner',     'win_margin_type','Event Name', 'Event Stage','Umpire 1','Umpire 2', Umpire Decision']
 - *Target variable:* Umpire_Decision  
 - ‘Struck down’ → correct decision  
 - ‘Upheld’ → wrong decision
+  
+-  Tools & Technologies:
+    - Python 3.x
+    - Pandas, NumPy (data manipulation & analysis)
+    - Scikit-learn (traditional ML models, pipelines, feature selection)
+    - XGBoost (advanced boosting models)
+    - TensorFlow / Keras (deep learning models like FCNN)
+    - Matplotlib, Seaborn (visualizations)
+    - Jupyter Notebook / Google Colab (development environment)
+    - Git, GitHub (version control & collaboration)
 
 ---
 
