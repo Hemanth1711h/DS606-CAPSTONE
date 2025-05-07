@@ -70,6 +70,10 @@ The primary objective of this capstone project is to analyze decision-making pat
 - Feature Importance Graphs
 - <img width="780" alt="image" src="https://github.com/user-attachments/assets/8d6f1b99-ded6-4380-96db-6c089816077a" />
 
+- FCNN Architecture
+- <img width="448" alt="image" src="https://github.com/user-attachments/assets/aa6e7b3b-0185-401f-9877-b25944111132" />
+
+
 - Correlation Heatmap
 - <img width="611" alt="image" src="https://github.com/user-attachments/assets/21ba2b26-3bb6-4063-ac44-fc0f469b3b3d" />
 
