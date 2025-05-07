@@ -1,5 +1,8 @@
 # 🏏 Umpire Decision Accuracy Prediction (Capstone Project)
 
+![image](https://github.com/user-attachments/assets/b861de4f-8ccb-4849-bb4d-06634226fbd7)
+
+
 ## 📍 Project Overview
 
 Cricket is one of the most popular sports globally, where a single umpire decision can change the course of a match.  
