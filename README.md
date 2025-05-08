@@ -64,13 +64,13 @@ While moving forward through the project these questions were brought into the p
 - ‘Upheld’ → wrong decision
   
 -  Tools & Technologies:
-    - Python 3.x
+    - [Python Latest version](https://www.python.org/downloads/)
     - Pandas, NumPy (data manipulation & analysis)
     - Scikit-learn (traditional ML models, pipelines, feature selection)
     - XGBoost (advanced boosting models)
     - TensorFlow / Keras (deep learning models like FCNN)
     - Matplotlib, Seaborn (visualizations)
-    - Jupyter Notebook / Google Colab (development environment)
+    - (Anaconda Navigator for Jupyter Notebook)[https://www.anaconda.com/products/navigator] / (Google Colab)[https://colab.research.google.com/] (development environment)
     - Git, GitHub (version control & collaboration)
 
 ---
