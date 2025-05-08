@@ -89,6 +89,9 @@ While moving forward through the project these questions were brought into the p
 -   Click on Jupyter Notebook
 -   It will open Jupyter in your web browser.
 
+-   <img width="1110" alt="image" src="https://github.com/user-attachments/assets/ca885130-c411-43ed-bcab-3bae1f5c7ced" />
+
+
 ✅ Step 3: Create a new notebook
 -   In Jupyter, navigate to your project folder.
 -   Click New 
