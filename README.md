@@ -82,33 +82,14 @@ While moving forward through the project these questions were brought into the p
 - Tasks:
   - *Supervised:* Binary classification
 
-
 ---
 
-## 🤖 Models and Results
-
-<img width="731" alt="image" src="https://github.com/user-attachments/assets/c86b1a8a-5148-4d10-bd29-de6af6873fb1" />
-
-
-This table compares precision, recall, and F1-score across all our models.
-The Fully Connected Neural Network (FCNN) stood out with a test F1-score of 73%, making it our best-performing single model.
-While ensemble models like Random Forest and Logistic Regression as meta models also performed well, they showed signs of overfitting with higher training scores.
-FCNN gave us the best balance between precision and recall, showing strong generalization.
-We prioritized F1-score as our key metric because it balances false positives and false negatives.
-
-
-Overall, this comparison gave us confidence to select FCNN as our top model for deployment and future work
-We chose F1-score as our primary metric because it gives the fairest view of model performance, especially in an imbalanced setup like ours. 
-Precision and recall are also critical for understanding the trade-off between catching actual bad calls and not falsely blaming umpires. Based on these metrics, our stacking model performed best overall.
-While we used F1-score to compare models overall, we still analyzed precision and recall separately. This helped us understand how models trade off between catching actual wrong calls (recall) and avoiding false accusations (precision).
-
----
 
 ## 💥 Key Insights
 
 ✅ Top predictors: Over, Wicket Kind, Review By, Inning Team  
 ✅ Correlation heatmap revealed weak direct correlation, but models captured non-linear patterns  
-✅ Feature importance varied across models — RF and FCNN picked slightly different dominant variables
+✅ Feature importance varied across models — RF(Random Forest and FCNN(Fully Concoluted Neural Network) picked slightly different dominant variables
 
 ---
 
@@ -141,6 +122,11 @@ On the right, the loss curves show a smooth, consistent decrease without diverge
 Importantly, the train and validation curves stay close, indicating minimal overfitting.
 This tells us the model generalizes well and has learned meaningful patterns.
 Overall, these curves gave us confidence to select this as one of our best-performing models.
+
+
+
+
+
 
 ## 🚀 Future Work
 
