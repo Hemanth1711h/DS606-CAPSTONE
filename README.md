@@ -109,9 +109,9 @@ While moving forward through the project these questions were brought into the p
 → Go to File → Save and Checkpoint → this will save your .ipynb file to your local machine.
 
 ✅ Step 7: Upload to GitHub
-→ Open your GitHub repository in the browser.
-→ Click Add file → Upload files → drag and drop or select your .ipynb file.
-→ Write a commit message → click Commit changes → your file is now updated in GitHub.
+-   → Open your GitHub repository in the browser.
+-   → Click Add file → Upload files → drag and drop or select your .ipynb file.
+-   → Write a commit message → click Commit changes → your file is now updated in GitHub.
 
 
 ---
