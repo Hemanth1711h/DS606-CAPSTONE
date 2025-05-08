@@ -89,7 +89,11 @@ While moving forward through the project these questions were brought into the p
 -   Click on Jupyter Notebook
 -   It will open Jupyter in your web browser.
 
--   <img width="1110" alt="image" src="https://github.com/user-attachments/assets/ca885130-c411-43ed-bcab-3bae1f5c7ced" />
+  <img width="1110" alt="image" src="https://github.com/user-attachments/assets/ca885130-c411-43ed-bcab-3bae1f5c7ced" />
+
+-   While you click launch its going to display like:
+  <img width="1102" alt="image" src="https://github.com/user-attachments/assets/91879c00-9a0a-4333-8172-40d53edce317" />
+
 
 
 ✅ Step 3: Create a new notebook
@@ -97,6 +101,11 @@ While moving forward through the project these questions were brought into the p
 -   Click New 
 -   select Python 3 (ipykernel)
 -   It will create a new .ipynb file.
+
+  <img width="1120" alt="image" src="https://github.com/user-attachments/assets/90ff2003-b263-4da1-9921-96ab7967fc56" />
+
+
+
 
 ✅ Step 4: Write your code
 → Import the necessary libraries in your notebook, for example:
