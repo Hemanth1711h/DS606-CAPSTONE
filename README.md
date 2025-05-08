@@ -108,7 +108,15 @@ While moving forward through the project these questions were brought into the p
 
 
 ✅ Step 4: Write your code
-→ Import the necessary libraries in your notebook, for example:
+
+Before writing the code you have to install the libraries in your notebook using the following command in your notebook and run it :
+- !pip install pandas numpy scikit-learn xgboost tensorflow matplotlib seaborn
+
+While its already installed as you can see its gonna pop up like this:
+  <img width="851" alt="image" src="https://github.com/user-attachments/assets/f8f1580b-c669-42ef-a694-16292e88119f" />
+
+
+→ After that Import the necessary libraries in your notebook, for example:
 
   import pandas as pd  
   import numpy as np  
