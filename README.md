@@ -224,7 +224,8 @@ Importantly, the train and validation curves stay close, indicating minimal over
 This tells us the model generalizes well and has learned meaningful patterns.
 Overall, these curves gave us confidence to select this as one of our best-performing models.
 
-For more project visualizations and for the info you can visit (Visualizations)[https://github.com/Hemanth1711h/DS606-CAPSTONE/blob/main/visualizations/visualizations_readme.md]
+For more project visualizations and for the info you can visit 
+(Visualizations)[https://github.com/Hemanth1711h/DS606-CAPSTONE/blob/main/visualizations/visualizations_readme.md]
 
 
 
