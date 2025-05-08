@@ -66,7 +66,7 @@ While moving forward through the project these questions were brought into the p
 
 ---
 
-## Tools & Technologies:
+## 📌 Tools & Technologies:
     - [Python Latest version](https://www.python.org/downloads/)
     - Pandas, NumPy (data manipulation & analysis)
     - Scikit-learn (traditional ML models, pipelines, feature selection)
