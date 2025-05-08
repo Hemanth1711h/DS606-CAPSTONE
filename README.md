@@ -69,6 +69,7 @@ The primary objective of this capstone project is to analyze decision-making pat
 
 <img width="731" alt="image" src="https://github.com/user-attachments/assets/c86b1a8a-5148-4d10-bd29-de6af6873fb1" />
 
+
 This table compares precision, recall, and F1-score across all our models.
 The Fully Connected Neural Network (FCNN) stood out with a test F1-score of 73%, making it our best-performing single model.
 While ensemble models like Random Forest and Logistic Regression as meta models also performed well, they showed signs of overfitting with higher training scores.
