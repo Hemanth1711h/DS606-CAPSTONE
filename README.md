@@ -77,6 +77,43 @@ While moving forward through the project these questions were brought into the p
 - (Google Colab)[https://colab.research.google.com/] (Development Environment)
 - Git, GitHub (version control & collaboration)
 
+--- 
+
+## Implementation and steps for how to run the project:
+
+✅ Step 1: Open Anaconda Navigator
+→ Launch the Anaconda Navigator from your desktop or start menu.
+
+✅ Step 2: Launch Jupyter Notebook
+→ Inside Anaconda Navigator, click on Jupyter Notebook → this will open Jupyter in your web browser.
+
+✅ Step 3: Create a new notebook
+→ In Jupyter, navigate to your project folder.
+→ Click New → select Python 3 (ipykernel) → this will create a new .ipynb file.
+
+✅ Step 4: Write your code
+→ Import the necessary libraries in your notebook, for example:
+
+  import pandas as pd  
+  import numpy as np  
+  import matplotlib.pyplot as plt  
+  import seaborn as sns  
+  import sklearn  
+  import xgboost  
+  import tensorflow  
+
+✅ Step 5: Execute your code
+→ Run each code cell by pressing Shift + Enter or clicking the Run button.
+
+✅ Step 6: Save the notebook
+→ Go to File → Save and Checkpoint → this will save your .ipynb file to your local machine.
+
+✅ Step 7: Upload to GitHub
+→ Open your GitHub repository in the browser.
+→ Click Add file → Upload files → drag and drop or select your .ipynb file.
+→ Write a commit message → click Commit changes → your file is now updated in GitHub.
+
+
 ---
 
 ## 🛠️ Methodology
