@@ -77,6 +77,8 @@ While moving forward through the project these questions were brought into the p
 - (Google Colab)[https://colab.research.google.com/] (Development Environment)
 - Git, GitHub (version control & collaboration)
 
+---
+
 ## 🛠️ Methodology
 
 ✅Data Collection
