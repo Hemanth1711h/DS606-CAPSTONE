@@ -116,7 +116,7 @@ While its already installed as you can see its gonna pop up like this:
   <img width="851" alt="image" src="https://github.com/user-attachments/assets/f8f1580b-c669-42ef-a694-16292e88119f" />
 
 
-→ After that Import the necessary libraries in your notebook, for example:
+✅ After that Import the necessary libraries in your notebook, for example:
 
   import pandas as pd  
   import numpy as np  
