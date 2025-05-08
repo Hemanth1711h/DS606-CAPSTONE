@@ -6,9 +6,10 @@
 
 ## 📍 Project Overview
 
-As we know Cricket is one of the most popular sports globally, where a single umpire decision can change the course of a match.  
-In this project, we explore whether machine learning can predict the *accuracy of umpire decisions* under different match conditions.  
-Our goal: *improve fairness, trust, and accountability in cricket decision-making.*
+This project explores the use of machine learning to predict the accuracy of cricket umpire decisions under various match conditions.
+Why does this matter? Because a single umpire decision can shape the outcome of a cricket match, affecting fairness, player morale, and fan trust.
+
+Goal: Build models that help assess the likelihood of umpire decision correctness, offering data-driven support for cricket authorities to enhance fairness and accountability.
 
 ## 🎯 Primary Objective
 
@@ -78,10 +79,43 @@ While moving forward through the project these questions were brought into the p
 
 ## 🛠️ Methodology
 
-- Preprocessing: handled missing values, one-hot encoding, feature selection
-- Feature selection: Random Forest, SHAP, SelectKBest
-- Tasks:
-  - *Supervised:* Binary classification
+Data Collection
+We collected ball-by-ball and match-level cricket data from official databases and match logs, including umpire decisions and review outcomes.
+
+Data Preprocessing
+We cleaned the data by removing duplicates, handling missing values, dropping irrelevant columns (e.g., toss decision, TV umpire), and correcting data types. We also one-hot encoded categorical variables and removed constant features.
+
+Exploratory Data Analysis (EDA)
+We visualized the data using histograms, count plots, pie charts (for target distribution), and correlation matrices to understand patterns, class imbalance and relationships between variables.
+
+Feature Engineering
+We engineered new features and selected the top 15 important variables using feature importance from RandomForest and SelectKBest. We also applied domain knowledge to retain relevant cricket-specific variables.
+
+Feature Scaling
+We standardized continuous features using StandardScaler to ensure uniform scale across features before feeding them into machine learning models.
+
+Model Selection
+We selected both traditional and ensemble models:
+
+![image](https://github.com/user-attachments/assets/a52c1df8-f053-4e2d-b0c0-714377f62acd)
+
+
+Traditional Models: Logistic Regression, Decision Tree
+
+Ensemble Models: Random Forest, AdaBoost, Gradient Boosting, XGBoost
+
+Model Training
+We split the data into training and test sets (with stratification) and trained models using hyperparameter tuning techniques like GridSearchCV and RandomizedSearchCV.
+
+Model Evaluation
+We evaluated models using metrics such as accuracy, precision, recall, F1 score, ROC-AUC, and confusion matrices on both training and test sets. We also visualized FCNN training history (accuracy, loss) over epochs.
+
+Visualization and Communication
+We created visual summaries, including pie charts, bar plots for feature importance, and training vs. validation curves, to communicate insights and explain model decisions.
+
+Monitoring & Future Work
+Although deployment is out of scope, we identified the need for future monitoring using live match data and retraining models as new umpire decision data becomes available.
+
 
 ---
 
