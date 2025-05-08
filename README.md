@@ -6,15 +6,15 @@
 
 ## 📍 Project Overview
 
-Cricket is one of the most popular sports globally, where a single umpire decision can change the course of a match.  
+As we know Cricket is one of the most popular sports globally, where a single umpire decision can change the course of a match.  
 In this project, we explore whether machine learning can predict the *accuracy of umpire decisions* under different match conditions.  
 Our goal: *improve fairness, trust, and accountability in cricket decision-making.*
 
-## 🎯 Objective
+## 🎯 Primary Objective
 
 The primary objective of this capstone project is to analyze decision-making patterns in professional cricket umpiring using machine learning. Specifically, the project aims to predict the correctness of an umpire's decision based on historical match data, ball characteristics, player behavior, and contextual game features. The goal is not to replace umpires but to provide a supportive analytical tool that identifies potential biases or inconsistencies and enables data-driven insights for cricket governing bodies.
 
-## Literature Review
+## 📌 Literature Review
 
 The accuracy of umpire decisions in cricket has been a prominent topic in sports analytics research, with various studies studying the components that influence such judgments. Earlier research by Sacheti, Gregory-Smith, & Paton (2015) studied home bias in LBW rulings in 1000 test matches utilizing negative binomial regression models. Their analysis found that home referees have historically preferred home teams, with bias growing more obvious in the later rounds of matches. Nonetheless, the adoption of neutral umpires considerably lessened this impact. Although their investigation produced statistical insights, it stressed descriptive analysis over machine learning. 
 
