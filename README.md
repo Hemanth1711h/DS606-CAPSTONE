@@ -56,15 +56,17 @@ While moving forward through the project these questions were brought into the p
 
 ---
 
-## 📊 Data Overview and Tools to Use
+## 📊 Data Overview 
 
 - *Numerical features: ['Match ID', 'Over', 'Runs by Batter', 'Extras', 'Total Runs','Current Wickets', 'Win Margin', 'Event Match Number']
 - *Categorical features: ['Inning Team', 'Batter', 'Bowler', 'Wicket Kind', 'Player Out','Fielder', 'Review By', 'Umpire', 'Review Decision', 'Date', 'Season', 'Team 1', 'Team 2', 'Venue', 'Winner',     'win_margin_type','Event Name', 'Event Stage','Umpire 1','Umpire 2', Umpire Decision']
 - *Target variable:* Umpire_Decision  
 - ‘Struck down’ → correct decision  
 - ‘Upheld’ → wrong decision
-  
--  Tools & Technologies:
+
+---
+
+## Tools & Technologies:
     - [Python Latest version](https://www.python.org/downloads/)
     - Pandas, NumPy (data manipulation & analysis)
     - Scikit-learn (traditional ML models, pipelines, feature selection)
@@ -74,8 +76,6 @@ While moving forward through the project these questions were brought into the p
     - (Anaconda Navigator for Jupyter Notebook)[https://www.anaconda.com/products/navigator] (Deployment Environment)
     - (Google Colab)[https://colab.research.google.com/] (Development Environment)
     - Git, GitHub (version control & collaboration)
-
----
 
 ## 🛠️ Methodology
 
