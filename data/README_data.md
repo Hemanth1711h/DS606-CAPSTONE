@@ -4,28 +4,12 @@
 
 This dataset captures detailed ball-by-ball information for cricket matches. Each row represents one ball delivery and includes both the context of the delivery and the outcome. It is granular and ideal for analyzing micro-level match dynamics, player performance, and umpire decisions.
 
-Key columns & explanation:
+<img width="270" alt="image" src="https://github.com/user-attachments/assets/05625539-57c7-4016-a3aa-6465bf1e2770" />
 
-Column Name	Description
-Match ID	Unique identifier for the match
-Inning Team	Team playing the current innings
-Over	Over number (set of 6 legal deliveries)
-Batter	Name of the batter facing the ball
-Bowler	Name of the bowler delivering the ball
-Non-striker	Name of the non-striker (partner batter)
-Runs by Batter	Runs scored by the batter on this ball
-Extras	Extra runs (byes, wides, no-balls, leg byes) added for this ball
-Total Runs	Total runs from the ball (batter + extras)
-Wicket Kind	Type of wicket (e.g., bowled, caught, LBW, run out) if applicable
-Player Out	Name of the dismissed batter (if any)
-Fielder	Fielder involved in dismissal (if any)
-Review By	Who requested a review (player/team)
-Umpire	Umpire who made the on-field decision
-Review Decision	Final decision after review (if any)
-Review Type	Type of review (e.g., LBW, caught behind, no ball)
-Replacement In	Player coming into the game as a replacement
-Replacement Out	Player replaced out of the game
-Replacement Team	Team making the replacement
-Replacement Reason	Reason for replacement (injury, tactical, etc.)
-Replacement Role	Role of the player (batter, bowler, all-rounder)
-Current Wickets	Number of wickets fallen at this ball
+#  Description for match_info csv file
+
+This dataset summarizes high-level match details and contextual information. Each row corresponds to one match, making it suitable for match-level analysis and aggregating stats across teams, seasons, or events.
+
+<img width="251" alt="image" src="https://github.com/user-attachments/assets/1df9ba6f-08dc-4983-8d24-fc935707ea1e" />
+
+
