@@ -79,8 +79,7 @@ While moving forward through the project these questions were brought into the p
 
 --- 
 
-## ![icon](https://github.com/user-attachments/assets/4d7cd62a-b11f-4f43-8d80-4e2202f1f6d3)
- Implementation and steps for how to run the project:
+## 📈 Implementation and steps for how to run the project:
 
 ✅ Step 1: Open Anaconda Navigator
 → Launch the Anaconda Navigator from your desktop or start menu.
