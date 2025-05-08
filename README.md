@@ -67,15 +67,15 @@ While moving forward through the project these questions were brought into the p
 ---
 
 ## 📌 Tools & Technologies:
-  [Python Latest version](https://www.python.org/downloads/)
-   Pandas, NumPy (data manipulation & analysis)
-   Scikit-learn (traditional ML models, pipelines, feature selection)
-   XGBoost (advanced boosting models)
-   TensorFlow / Keras (deep learning models like FCNN)
-   Matplotlib, Seaborn (visualizations)
-   (Anaconda Navigator for Jupyter Notebook)[https://www.anaconda.com/products/navigator] (Deployment Environment)
-   (Google Colab)[https://colab.research.google.com/] (Development Environment)
-    Git, GitHub (version control & collaboration)
+- [Python Latest version](https://www.python.org/downloads/)
+- Pandas, NumPy (data manipulation & analysis)
+- Scikit-learn (traditional ML models, pipelines, feature selection)
+- XGBoost (advanced boosting models)
+- TensorFlow / Keras (deep learning models like FCNN)
+- Matplotlib, Seaborn (visualizations)
+- (Anaconda Navigator for Jupyter Notebook)[https://www.anaconda.com/products/navigator] (Deployment Environment)
+- (Google Colab)[https://colab.research.google.com/] (Development Environment)
+- Git, GitHub (version control & collaboration)
 
 ## 🛠️ Methodology
 
