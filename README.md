@@ -23,8 +23,18 @@ The accuracy of umpire decisions in cricket has been a prominent topic in sports
 
 ## 🔍 Research Questions
 
+While moving forward through the project these questions were brought into the picture:
+
 1. Can we build a machine learning model that predicts umpire decision accuracy based on match conditions?
-2. What are the key factors influencing umpire decision accuracy in ODI matches?
+
+   We aim to develop predictive models using machine learning algorithms (Logistic Regression, Decision Tree, Random Forest, AdaBoost, Gradient Boosting, XGBoost) to assess whether match conditions, player behavior, and in-game events can accurately forecast the correctness of umpire decisions.
+
+
+3. What are the key factors influencing umpire decision accuracy in ODI matches?
+
+   We analyzed feature importance using models such as Random Forest and Logistic Regression to identify which factors (e.g., over number, batter, bowler, venue, type of delivery) most impact the likelihood of an umpire making a correct or incorrect decision.
+
+
 
 ---
 
